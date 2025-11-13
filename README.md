@@ -64,11 +64,10 @@ Steps performed using **Power Query (Power BI)**:
 - Standardized sector/industry naming conventions  
 - Labeled missing ESG scores as “Not Rated”  
 
----
  📐 ESG Metrics & Calculations  
 
 Total ESG Risk  
-```DAX
+DAX
 **Total ESG Risk = [Environment Risk Score] + [Governance Risk Score] + [Social Risk Score]
 
 ESG Risk Category = 
