@@ -115,8 +115,7 @@ KPIs
 
 **Dashboard**
 
-![ESG Risk Dashboard Screenshot](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/ESG_Risk_Dashboard.png)
-![ESG Risk Dashboard Screenshot](https://github.com/user-attachments/assets/your-new-image-id.png)
+
 
 
 
