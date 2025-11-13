@@ -65,10 +65,9 @@ Steps performed using **Power Query (Power BI)**:
 - Labeled missing ESG scores as “Not Rated”  
 
 ---
+ 📐 ESG Metrics & Calculations  
 
-## 📐 ESG Metrics & Calculations  
-
-### Total ESG Risk  
+Total ESG Risk  
 ```DAX
 **Total ESG Risk = [Environment Risk Score] + [Governance Risk Score] + [Social Risk Score]
 
@@ -113,10 +112,10 @@ KPIs
 
 - Scatter Plot: ESG Risk vs. Full-Time Employees
 
-**Dashboard**
+**Dashboard**<img width="1181" height="658" alt="Screenshot 2025-11-10 142154" src="
 
 
-
+![ESG Risk Dashboard Screenshot](https://github.com/user-attachments/assets/b64fec08-5f7d-46b2-a98e-21c14ff8bc94)
 
 
 
